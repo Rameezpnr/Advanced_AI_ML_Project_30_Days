@@ -1,4 +1,4 @@
-# 100 Days of Advanced Machine Learning, Deep Learning, and NLP Projects
+# 30 Days of Advanced Machine Learning, Deep Learning, and NLP Projects
 
 Welcome to my repository, where I am embarking on a 100-day challenge to push the boundaries of my knowledge and skills in advanced data science, machine learning (ML), deep learning (DL), and natural language processing (NLP). While I am already familiar with many foundational concepts, this journey is dedicated to exploring complex methodologies and state-of-the-art techniques in the AI landscape.
 
